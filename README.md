@@ -1,7 +1,7 @@
 
 ## 👋 About Me
 
-I am a passionate **Cybersecurity Analyst** with a strong foundation in network security, incident response, and threat detection. Transitioning from the video/post-production industry and hospitality, I am eager to apply my problem-solving skills and dedication to making the digital world a safer place.
+I am a passionate **Cybersecurity Analyst** with a strong foundation in network security, incident response, and threat detection. I am eager to apply my problem-solving skills and dedication to making the digital world a safer place.
 
 ---
 
